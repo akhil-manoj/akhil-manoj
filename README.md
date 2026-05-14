@@ -69,9 +69,9 @@
 <br/>
 
 <details open>
-<summary><b>🛡️ OFFENSIVE & DEFENSIVE SECURITY</b></summary>
+<summary><b>🛡️ SECURITY & PENETRATION TESTING</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,networking,docker,github&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell,networking&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Exploitation-Metasploit%20%7C%20Nmap%20%7C%20BurpSuite%20%7C%20Wireshark-8b0000?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Security-OSINT%20%7C%20Forensics%20%7C%20SIEM%20%7C%20Malware%20Analysis-3d0000?style=for-the-badge" />
@@ -80,7 +80,7 @@
 <br/>
 
 <details open>
-<summary><b>💻 LANGUAGES & CORE ENGINEERING</b></summary>
+<summary><b>💻 PROGRAMMING LANGUAGES</b></summary>
 <br/>
 <img src="https://skillicons.dev/icons?i=python,js,ts,go,cpp,rust,cs,html,css&theme=dark&perline=9" />
 <br/><br/>
@@ -90,7 +90,7 @@
 <br/>
 
 <details>
-<summary><b>🌐 FRAMEWORKS & WEB ECOSYSTEM</b></summary>
+<summary><b>🌐 MODERN FRAMEWORKS</b></summary>
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,bootstrap,express,fastify,flask,django&theme=dark&perline=10" />
 <br/><br/>
@@ -100,7 +100,7 @@
 <br/>
 
 <details>
-<summary><b>🗄️ DATABASES & STORAGE SOLUTIONS</b></summary>
+<summary><b>🗄️ DATABASE ARCHITECTURE</b></summary>
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,firebase,sqlite,dynamodb&theme=dark&perline=8" />
 <br/><br/>
@@ -110,9 +110,9 @@
 <br/>
 
 <details>
-<summary><b>☁️ DEVOPS, CLOUD & INFRASTRUCTURE</b></summary>
+<summary><b>☁️ CLOUD & DEVOPS</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,nginx,postman&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,github,githubactions,nginx&theme=dark&perline=9" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Infra-Serverless%20%7C%20Microservices%20%7C%20CI%2FCD-0d0d0d?style=for-the-badge" />
 </details>
@@ -120,11 +120,30 @@
 <br/>
 
 <details>
-<summary><b>🚀 AI, ML & AUTOMATION</b></summary>
+<summary><b><img src="https://skillicons.dev/icons?i=openai" width="20" /> AI, TOOLS & AUTOMATION</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=openai,pytorch,tensorflow,vscode,git,figma&theme=dark&perline=6" />
-<br/><br/>
-<img src="https://img.shields.io/badge/AI-LangChain%20%7C%20LLMs%20%7C%20Autonomous%20Agents-8b0000?style=for-the-badge&logo=openai&logoColor=white" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=openai" width="50" title="OpenAI" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/8b0000" width="50" title="PyTorch" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/8b0000" width="50" title="TensorFlow" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white&width=50" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white&width=50" />&nbsp;&nbsp;
+  <br/><br/>
+  <img src="https://cdn.simpleicons.org/n8n/8b0000" width="50" title="n8n" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/make/8b0000" width="50" title="Make.com" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/zapier/8b0000" width="50" title="Zapier" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Voiceflow-3D00FF?style=flat-square&logo=voiceflow&logoColor=white" />&nbsp;&nbsp;
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" title="VS Code" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/8b0000" width="50" title="Postman" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/8b0000" width="50" title="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/figma/8b0000" width="50" title="Figma" />&nbsp;&nbsp;
+</div>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Workflow-n8n%20%7C%20Make%20%7C%20Zapier-8b0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agents-Autonomous%20%7C%20LangGraph-3d0000?style=flat-square" />
+</div>
 </details>
 
 </div>
