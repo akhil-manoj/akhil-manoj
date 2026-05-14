@@ -1,10 +1,12 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=8b0000&text=AKHIL%20MANOJ&fontSize=90&fontAlignY=40&fontColor=8b0000&desc=Security%20Researcher%20%7C%20AI%20Security%20Architect&descAlignY=65&descSize=20&descColor=ffffff&animation=fadeIn" />
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:3d0000&height=220&section=header&text=AKHIL%20MANOJ&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SECURITY%20RESEARCHER%20%7C%20AI%20ARCHITECT&descAlignY=58&descColor=ff4444&descSize=20&stroke=8b0000&strokeWidth=2" width="100%" />
 
-<!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=800&height=50&lines=Exploiting+Vulnerabilities.%20Securing+Systems.;Building+Autonomous+AI+Security+Agents.;CEH+v12+Certified+Professional.;Always+Breaking.+Always+Evolving." alt="Typing SVG" />
+<br/>
+
+<!-- MULTI-LAYER TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=FF3333&center=true&vCenter=true&width=800&height=50&lines=INITIATING+SECURE+PROTOCOL...;ACCESSING+KRIPTUX+DATABASE...;DECRYPTING+EXPERT+PROFILE...;SYSTEMS+STABLE.+ACCESS+GRANTED." alt="Typing SVG" />
 
 <br/>
 
@@ -29,23 +31,25 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=45&text=TERMINAL%20ACCESS&fontSize=25&fontAlignY=50&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=45&text=SYSTEM%20MANIFEST&fontSize=25&fontAlignY=50&fontColor=ffffff" width="100%"/>
 
 <div align="center">
 <br/>
 <table width="800px">
 <tr>
-<td style="background-color: #1a1a1a; border: 1px solid #333; border-radius: 8px; padding: 20px; font-family: 'Fira Code', monospace;">
+<td style="background-color: #0d0d0d; border: 1px solid #8b0000; border-radius: 8px; padding: 25px; font-family: 'Fira Code', monospace; box-shadow: 0 0 15px rgba(139, 0, 0, 0.3);">
 <div align="left">
-<span style="color: #ff3333;">●</span> <span style="color: #ffcc00;">●</span> <span style="color: #33ff33;">●</span><br/><br/>
-<span style="color: #8b0000;">$ whoami --verbose</span><br/>
-<span style="color: #ffffff;">[+] <b>NAME:</b> Akhil Manoj</span><br/>
-<span style="color: #ffffff;">[+] <b>ROLE:</b> Security Researcher | AI Security Architect</span><br/>
-<span style="color: #ffffff;">[+] <b>EXP:</b> Cyber Security Analyst @ Purple Nexus</span><br/>
-<span style="color: #ffffff;">[+] <b>EDU:</b> BCA, Computer Science [A+]</span><br/>
-<span style="color: #ffffff;">[+] <b>MISSION:</b> Architecting the next generation of autonomous security.</span><br/>
-<span style="color: #8b0000;">$ status --check</span><br/>
-<span style="color: #33ff33;">[SUCCESS] Systems Operational. Security Protocols Active.</span>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&color=8b0000&width=300&height=30&lines=%24+whoami+--verbose" /><br/>
+<span style="color: #ffffff;">[+] <b>IDENTITY:</b> Akhil Manoj</span><br/>
+<span style="color: #ffffff;">[+] <b>AUTHORITY:</b> Security Researcher | AI Security Architect</span><br/>
+<span style="color: #ffffff;">[+] <b>OPERATIONS:</b> Cyber Security Analyst @ Purple Nexus</span><br/>
+<span style="color: #ffffff;">[+] <b>ACADEMICS:</b> BCA, Computer Science [A+]</span><br/>
+<span style="color: #ffffff;">[+] <b>OBJECTIVE:</b> Developing autonomous AI-driven defensive frameworks.</span><br/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&color=8b0000&width=300&height=30&lines=%24+system_status+--check" /><br/>
+<span style="color: #33ff33;">[ONLINE] Neural Engines Operational.</span><br/>
+<span style="color: #33ff33;">[ONLINE] Penetration Testing Suite Loaded.</span><br/>
+<span style="color: #33ff33;">[ONLINE] KRIPTUX Core v2.4 Active.</span>
 </div>
 </td>
 </tr>
@@ -56,70 +60,72 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3d0000&height=45&text=TECH%20STACK%20%26%20ARSENAL&fontSize=25&fontAlignY=50&fontColor=ffffff" width="100%"/>
-
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/Security-Metasploit%20%7C%20Nmap%20%7C%20BurpSuite%20%7C%20Wireshark-8b0000?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Supabase-3d0000?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Node.js%20%7C%20PostgreSQL-0d0d0d?style=for-the-badge&logo=python&logoColor=white" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,networking,docker,github,python,js,mongodb,aws,gcp,supabase,postgres,mysql,react,nextjs,tailwind,postman,vscode,git&theme=dark" />
-</div>
-
-<br/>
-
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=45&text=CERTIFIED%20PROFESSIONAL&fontSize=25&fontAlignY=50&fontColor=ffffff&stroke=8b0000&strokeWidth=2" width="100%"/>
-
-<div align="center">
-<br/>
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://tryhackme.com/p/akhilmanoj" target="_blank">
-        <img width="200" src="https://tryhackme-badges.s3.amazonaws.com/akhilmanoj.png" alt="TryHackMe" />
-      </a><br/>
-      <b>Top 25% Researcher</b>
-    </td>
-    <td align="center" width="33%">
-      <img width="80" src="https://img.shields.io/badge/TCM-Security-ff4444?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxTDMgNXY2YzAgNS41NSAzLjg0IDEwLjc0IDkgMTIgNS4xNi0xLjI2IDktNi40NSA5LTEyVjVsLTktNHoiLz48L3N2Zz4="/><br/>
-      <b>Practical Help Desk</b>
-    </td>
-    <td align="center" width="33%">
-      <img width="80" src="https://img.shields.io/badge/EC--Council-CEH-ff4444?style=flat-square&logo=hackthebox&logoColor=white"/><br/>
-      <b>CEH v12 Certified</b>
-    </td>
-  </tr>
-</table>
-</div>
-
-<br/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=45&text=FEATURED%20DEPLOYMENTS&fontSize=25&fontAlignY=50&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3d0000&height=45&text=ADVANCED%20TECHNICAL%20ARSENAL&fontSize=25&fontAlignY=50&fontColor=ffffff" width="100%"/>
 
 <div align="center">
 
 <br/>
 
-### 🤖 KRIPTUX Astra
-*Autonomous Security Intelligence & Reconnaisance*
+<details open>
+<summary><b>🛡️ OFFENSIVE & DEFENSIVE SECURITY</b></summary>
 <br/>
-![KRIPTUX Astra](kriptux_astra.png)
-<br/>
-`Python` · `OpenAI` · `Advanced Recon`
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,networking,docker,github&theme=dark&perline=7" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Exploitation-Metasploit%20%7C%20Nmap%20%7C%20BurpSuite%20%7C%20Wireshark-8b0000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-OSINT%20%7C%20Forensics%20%7C%20SIEM%20%7C%20Malware%20Analysis-3d0000?style=for-the-badge" />
+</details>
 
 <br/>
 
-### 🎙️ Kriptux Voice Agent
-*Enterprise-Grade Secure AI Communication*
+<details open>
+<summary><b>💻 LANGUAGES & CORE ENGINEERING</b></summary>
 <br/>
-![Kriptux Voice Agent](kriptux_voice.png)
+<img src="https://skillicons.dev/icons?i=python,js,ts,go,cpp,rust,cs,html,css&theme=dark&perline=9" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Engineering-Low%20Level%20%7C%20Concurrent%20%7C%20Functional-0d0d0d?style=for-the-badge" />
+</details>
+
 <br/>
-`LiveKit` · `Node.js` · `Real-time Security`
+
+<details>
+<summary><b>🌐 FRAMEWORKS & WEB ECOSYSTEM</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,bootstrap,express,fastify,flask,django&theme=dark&perline=10" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Web-Modern%20Stack%20%7C%20SSR%20%7C%20Static%20Generation-8b0000?style=for-the-badge" />
+</details>
+
+<br/>
+
+<details>
+<summary><b>🗄️ DATABASES & STORAGE SOLUTIONS</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,firebase,sqlite,dynamodb&theme=dark&perline=8" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Storage-Relational%20%7C%20NoSQL%20%7C%20Vector%20Databases-3d0000?style=for-the-badge" />
+</details>
+
+<br/>
+
+<details>
+<summary><b>☁️ DEVOPS, CLOUD & INFRASTRUCTURE</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,nginx,postman&theme=dark&perline=9" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Infra-Serverless%20%7C%20Microservices%20%7C%20CI%2FCD-0d0d0d?style=for-the-badge" />
+</details>
+
+<br/>
+
+<details>
+<summary><b>🚀 AI, ML & AUTOMATION</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=openai,pytorch,tensorflow,vscode,git,figma&theme=dark&perline=6" />
+<br/><br/>
+<img src="https://img.shields.io/badge/AI-LangChain%20%7C%20LLMs%20%7C%20Autonomous%20Agents-8b0000?style=for-the-badge&logo=openai&logoColor=white" />
+</details>
 
 </div>
 
@@ -132,6 +138,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:3d0000,100:0d0d0d&height=140&section=footer&text=Break.%20Learn.%20Secure.%20Repeat.&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=akhil-manoj%20%C2%B7%20github.com%2Fakhil-manoj&descSize=12&descAlignY=85&descColor=666666" />
 
 </div>
+
+
 
 
 
