@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=akhil-manoj&style=for-the-badge&color=8b0000&label=SECURE+ACCESS+LOGS"/>
+<img src="https://komarev.com/ghpvc/?username=akhil-manoj&style=for-the-badge&color=8b0000&label=PROFILE+VIEWS"/>
 
 </div>
 
