@@ -1,138 +1,164 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,35:160000,70:4c0038,100:0b1020&text=AKHIL%20MANOJ&fontColor=ffffff&fontSize=78&fontAlignY=36&desc=SECURITY%20RESEARCHER%20%7C%20AI%20SECURITY%20ARCHITECT%20%7C%20AUTOMATION%20ENGINEER&descAlignY=58&descSize=17&descColor=ff4d4d&animation=fadeIn&stroke=ff1f3d&strokeWidth=1" alt="Akhil Manoj cyber header" />
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:3d0000&height=220&section=header&text=AKHIL%20MANOJ&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SECURITY%20RESEARCHER%20%7C%20AI%20ARCHITECT&descAlignY=58&descColor=ff4444&descSize=20&stroke=8b0000&strokeWidth=2" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=650&color=FF3B3B&center=true&vCenter=true&width=900&lines=%3E+initializing+security+profile...;%3E+loading+AI+defense+systems...;%3E+mapping+attack+surfaces...;%3E+automating+response+workflows...;%3E+access+granted." alt="Terminal typing animation" />
+<br/>
 
-<br/><br/>
+<!-- MULTI-LAYER TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=FF3333&center=true&vCenter=true&width=800&height=50&lines=INITIATING+SECURE+PROTOCOL...;ACCESSING+KRIPTUX+DATABASE...;DECRYPTING+EXPERT+PROFILE...;SYSTEMS+STABLE.+ACCESS+GRANTED." alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/akhil-manoj-amk">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/akhil-manoj-amk" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/akhil-manoj">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+&nbsp;
+<a href="https://github.com/akhil-manoj" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://tryhackme.com/p/akhilmanoj">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+&nbsp;
+<a href="https://tryhackme.com/p/akhilmanoj" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=akhil-manoj&style=for-the-badge&color=8b0000&label=PROFILE+VIEWS" alt="Profile views" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=akhil-manoj&style=for-the-badge&color=8b0000&label=PROFILE+VIEWS"/>
 
 </div>
 
+<br/>
+
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:111111,50:7f0000,100:111111&text=SYSTEM%20MANIFEST&fontColor=ffffff&fontSize=24&fontAlignY=53" alt="System manifest divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=45&text=SYSTEM%20MANIFEST&fontSize=25&fontAlignY=50&fontColor=ffffff" width="100%"/>
 
-```bash
-$ whoami --verbose
-identity        Akhil Manoj
-role            Security Researcher | AI Security Architect
-focus           AI-driven defensive frameworks, security automation, attack-surface research
-background      BCA Computer Science
-operating_mode  break -> learn -> secure -> repeat
-```
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Security Research</h3>
-      <p>Reconnaissance, web application testing, OSINT, exploit analysis, forensics, threat modeling, and adversarial thinking.</p>
-    </td>
-    <td width="50%">
-      <h3>AI Security Architecture</h3>
-      <p>Autonomous defensive workflows, AI-assisted triage, secure agent patterns, and practical automation for security teams.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Automation Engineering</h3>
-      <p>n8n, Make, Zapier, Playwright, Selenium, API orchestration, monitoring workflows, and repeatable operations.</p>
-    </td>
-    <td width="50%">
-      <h3>Full-Stack Systems</h3>
-      <p>Modern web apps, backend services, databases, cloud infrastructure, CI/CD, and deployable security tools.</p>
-    </td>
-  </tr>
+<div align="center">
+<br/>
+<table width="800px">
+<tr>
+<td style="background-color: #0d0d0d; border: 1px solid #8b0000; border-radius: 8px; padding: 25px; font-family: 'Fira Code', monospace; box-shadow: 0 0 15px rgba(139, 0, 0, 0.3);">
+<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&color=8b0000&width=300&height=30&lines=%24+whoami+--verbose" /><br/>
+<span style="color: #ffffff;">[+] <b>IDENTITY:</b> Akhil Manoj</span><br/>
+<span style="color: #ffffff;">[+] <b>AUTHORITY:</b> Security Researcher | AI Security Architect</span><br/>
+<span style="color: #ffffff;">[+] <b>OPERATIONS:</b> Cyber Security Analyst @ Purple Nexus</span><br/>
+<span style="color: #ffffff;">[+] <b>ACADEMICS:</b> BCA, Computer Science [A+]</span><br/>
+<span style="color: #ffffff;">[+] <b>OBJECTIVE:</b> Developing autonomous AI-driven defensive frameworks.</span><br/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&color=8b0000&width=300&height=30&lines=%24+system_status+--check" /><br/>
+<span style="color: #33ff33;">[ONLINE] Neural Engines Operational.</span><br/>
+<span style="color: #33ff33;">[ONLINE] Penetration Testing Suite Loaded.</span><br/>
+<span style="color: #33ff33;">[ONLINE] KRIPTUX Core v2.4 Active.</span>
+</div>
+</td>
+</tr>
 </table>
+</div>
+
+<br/>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:111111,50:3d0000,100:111111&text=TECHNICAL%20ARSENAL&fontColor=ffffff&fontSize=24&fontAlignY=53" alt="Technical arsenal divider" />
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3d0000&height=45&text=ADVANCED%20TECHNICAL%20ARSENAL&fontSize=25&fontAlignY=50&fontColor=ffffff" width="100%"/>
 
 <div align="center">
 
-### Security & Operations
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell,docker,kubernetes,terraform,githubactions,nginx&theme=dark&perline=9" alt="Security and operations stack" />
+<br/>
 
+<details open>
+<summary><b>🛡️ SECURITY & PENETRATION TESTING</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell,networking&theme=dark" />
 <br/><br/>
+<img src="https://img.shields.io/badge/Exploitation-Metasploit%20%7C%20Nmap%20%7C%20BurpSuite%20%7C%20Wireshark-8b0000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-OSINT%20%7C%20Forensics%20%7C%20SIEM%20%7C%20Malware%20Analysis-3d0000?style=for-the-badge" />
+</details>
 
-![Security](https://img.shields.io/badge/Security-OSINT%20%7C%20Pentesting%20%7C%20Forensics%20%7C%20SIEM-8b0000?style=for-the-badge)
-![Tooling](https://img.shields.io/badge/Tooling-Nmap%20%7C%20Burp%20Suite%20%7C%20Wireshark%20%7C%20Metasploit-111111?style=for-the-badge)
+<br/>
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,go,cpp,rust,cs,html,css&theme=dark&perline=9" alt="Programming languages" />
-
+<details open>
+<summary><b>💻 PROGRAMMING LANGUAGES</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,go,cpp,rust,cs,html,css&theme=dark&perline=9" />
 <br/><br/>
+<img src="https://img.shields.io/badge/Engineering-Low%20Level%20%7C%20Concurrent%20%7C%20Functional-0d0d0d?style=for-the-badge" />
+</details>
 
-### Web, Cloud & Data
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,nodejs,express,fastapi,flask,django,postgres,mongodb,mysql,redis,supabase,firebase,aws,gcp,azure&theme=dark&perline=10" alt="Web cloud and data stack" />
+<br/>
 
+<details>
+<summary><b>🌐 MODERN FRAMEWORKS</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,bootstrap,express,fastify,flask,django&theme=dark&perline=10" />
 <br/><br/>
+<img src="https://img.shields.io/badge/Web-Modern%20Stack%20%7C%20SSR%20%7C%20Static%20Generation-8b0000?style=for-the-badge" />
+</details>
 
-### AI, Agents & Automation
-<img src="https://skillicons.dev/icons?i=openai,pytorch,tensorflow,postman,git,github,vscode,figma&theme=dark&perline=8" alt="AI and automation stack" />
+<br/>
 
+<details>
+<summary><b>🗄️ DATABASE ARCHITECTURE</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,firebase,sqlite,dynamodb&theme=dark&perline=8" />
 <br/><br/>
+<img src="https://img.shields.io/badge/Storage-Relational%20%7C%20NoSQL%20%7C%20Vector%20Databases-3d0000?style=for-the-badge" />
+</details>
 
-![Automation](https://img.shields.io/badge/Automation-n8n%20%7C%20Make%20%7C%20Zapier%20%7C%20Playwright-3d0000?style=for-the-badge)
-![Agents](https://img.shields.io/badge/Agents-Autonomous%20Workflows%20%7C%20Security%20Triage%20%7C%20AI%20Ops-8b0000?style=for-the-badge)
+<br/>
+
+<details>
+<summary><b>☁️ CLOUD & DEVOPS</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,github,githubactions,nginx&theme=dark&perline=9" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Infra-Serverless%20%7C%20Microservices%20%7C%20CI%2FCD-0d0d0d?style=for-the-badge" />
+</details>
+
+<br/>
+
+<details>
+<summary><b><img src="https://skillicons.dev/icons?i=openai" width="20" /> AI, TOOLS & AUTOMATION</b></summary>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=openai" width="50" title="OpenAI" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/8b0000" width="50" title="PyTorch" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/8b0000" width="50" title="TensorFlow" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white&width=50" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white&width=50" />&nbsp;&nbsp;
+  <br/><br/>
+  <img src="https://cdn.simpleicons.org/n8n/8b0000" width="50" title="n8n" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/make/8b0000" width="50" title="Make.com" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/zapier/8b0000" width="50" title="Zapier" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Voiceflow-3D00FF?style=flat-square&logo=voiceflow&logoColor=white" />&nbsp;&nbsp;
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" title="VS Code" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/8b0000" width="50" title="Postman" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/8b0000" width="50" title="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/figma/8b0000" width="50" title="Figma" />&nbsp;&nbsp;
+</div>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Workflow-n8n%20%7C%20Make%20%7C%20Zapier-8b0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agents-Autonomous%20%7C%20LangGraph-3d0000?style=flat-square" />
+</div>
+</details>
 
 </div>
+
+<br/>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:111111,50:7f0000,100:111111&text=ACTIVE%20RESEARCH%20THREADS&fontColor=ffffff&fontSize=24&fontAlignY=53" alt="Research threads divider" />
-
 <div align="center">
 
-| Track | Focus |
-|---|---|
-| Offensive Security | Recon automation, vulnerability analysis, exploit labs, adversarial testing |
-| Defensive AI | Secure agents, AI-assisted alert triage, response automation, monitoring loops |
-| Security Automation | API-driven workflows, enrichment pipelines, repeatable playbooks |
-| System Design | Reliable backends, clean infrastructure, observable automation services |
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:3d0000,100:0d0d0d&height=140&section=footer&text=Break.%20Learn.%20Secure.%20Repeat.&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=akhil-manoj%20%C2%B7%20github.com%2Fakhil-manoj&descSize=12&descAlignY=85&descColor=666666" />
 
 </div>
 
----
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:111111,50:3d0000,100:111111&text=GITHUB%20TELEMETRY&fontColor=ffffff&fontSize=24&fontAlignY=53" alt="GitHub telemetry divider" />
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akhil-manoj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4d4d&icon_color=ff4d4d&text_color=F3F4F6" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=akhil-manoj&theme=radical&hide_border=true&background=0D1117&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ff4d4d" alt="GitHub streak stats" />
 
-<br/><br/>
-
-<img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-manoj&theme=react-dark&hide_border=true&bg_color=0D1117&color=F3F4F6&line=ff4d4d&point=ffffff&area=true&area_color=8b0000" alt="GitHub activity graph" />
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:111111,50:7f0000,100:111111&text=OPERATING%20PRINCIPLES&fontColor=ffffff&fontSize=24&fontAlignY=53" alt="Operating principles divider" />
-
-```txt
-[01] Understand the system before exploiting or defending it.
-[02] Turn repeated security work into automation.
-[03] Use offensive knowledge to build stronger defense.
-[04] Design AI workflows with guardrails, logs, and human review.
-[05] Ship practical tools, not theoretical noise.
-```
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,35:7f0000,70:3d0000,100:050505&text=Break.%20Learn.%20Secure.%20Repeat.&fontColor=ffffff&fontSize=24&fontAlignY=68&desc=github.com%2Fakhil-manoj&descSize=13&descAlignY=86&descColor=ff4d4d&animation=fadeIn" alt="Footer" />
-
-</div>
